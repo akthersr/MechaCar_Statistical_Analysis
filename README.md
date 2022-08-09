@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-Jeremy, was invited by upper management team for the MechaCar,the AutosRUs’ newest prototype, which was suffering from production troubles that are blocking the manufacturing team’s progress. Jeremy and the data analytics team are going to review the production data for insights that may help the manufacturing team of the MechaCar.
+Jeremy, was invited by the upper management team for the MechaCar project,the AutosRUs’ newest prototype, which was suffering from production troubles that are blocking the manufacturing team’s progress. Jeremy and the data analytics team are going to review the production data for insights that may help the manufacturing team of the MechaCar.
 
 The main objectives are as follows:
 
