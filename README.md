@@ -52,7 +52,7 @@ The varience of the all manufacturing lot was 62.29,which is less than 100 mets 
 
 The following boxplot also shows the difference between the lots;
 
-![]()
+![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/box%20plot.png)
 
 ## T-Tests on Suspension Coils
 
@@ -66,7 +66,7 @@ The summary of the t-test for all manufacturing lots:
 Lot1:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot1.png)
 Lot2:
-![]()
+![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot2.png)
 Lot3:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot3.png)
 
