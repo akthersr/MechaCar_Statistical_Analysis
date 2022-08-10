@@ -30,7 +30,9 @@ Among all of six variables vehicle length,ground clearance are statistically sig
 
 Is the slope of the linear model considered to be zero? Why or why not?
 
-The slope or intercept of the linear model was also satistically significant, some of them are non zero and some are close to zero.
+The intercept of the linear model was also satistically significant, some of them are non zero and some are close to zero.
+
+
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
@@ -74,6 +76,8 @@ Lot3:
 When, the test is conducted for individual lots, Lot1 has the true mean of 1500, with a p-value of 1. So, we can not reject the null hypothesis that ther is no significant difference between the sample mean and the population mean. Lot2 has also the same sample mean of 1500.02, with a p-value of 0.61. We can not reject the null hypothesis.
 
 On the otherhand, for Lot3 the sample mean is 1496.14 and p-value is 0.04168, which is lower than the significance level.So, we have to reject the null hypothesis and the sample mean is not equal to the population mean(1500 PSI).
+
+## Study Design: MechaCar vs Competition
 
 
 
