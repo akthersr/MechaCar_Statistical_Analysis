@@ -58,10 +58,11 @@ The following boxplot also shows the difference between the lots;
 
 ### T-test for all lots
 
-In this step we have find is there any significance difference between the sample dataset and the population dataset. Here,the null hypothsis is the true mean is eqal to 1500.
+In this step we have find is there any significance difference between the sample dataset and the population dataset. Here,the null hypothesis is the true mean is eqal to 1500.
 
 The summary of the t-test for all manufacturing lots:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/deli%203.png)
+Here,we can see the true sample mean is 1498.78 and the p-value is .06028,which is higher than the significance level(0.05).We do not have enough evidence to reject this hypothesis.Because we set the significance level at 5%, the null hypothesis should not be rejected. We can say that,the mean for all manufacturing lots is similar to the population mean 1500 PSI. 
 
 Lot1:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot1.png)
@@ -69,6 +70,10 @@ Lot2:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot2.png)
 Lot3:
 ![](https://github.com/akthersr/MechaCar_Statistical_Analysis/blob/main/lot3.png)
+
+When, the test is conducted for individual lots, Lot1 has the true mean of 1500, with a p-value of 1. So, we can not reject the null hypothesis that ther is no significant difference between the sample mean and the population mean. Lot2 has also the same sample mean of 1500.02, with a p-value of 0.61. We can not reject the null hypothesis.
+
+On the otherhand, for Lot3 the sample mean is 1496.14 and p-value is 0.04168, which is lower than the significance level.So, we have to reject the null hypothesis and the sample mean is not equal to the population mean(1500 PSI).
 
 
 
