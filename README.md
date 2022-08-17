@@ -6,13 +6,13 @@ Jeremy, was invited by the upper management team for the MechaCar project,the Au
 
 The main objectives are as follows:
 
--To identify which variables in the dataset predict the mpg of MechaCar prototypes by performing multiple linear regression analysis.
+- To identify which variables in the dataset predict the mpg of MechaCar prototypes by performing multiple linear regression analysis.
 
--Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
+- Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.
 
--Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
+- Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
 
--Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
+- Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
 ## Linear Regression to Predict MPG
 
@@ -81,13 +81,13 @@ On the otherhand, for Lot3 the sample mean is 1496.14 and p-value is 0.04168, wh
 
 To win the customers attraction, MechaCar needs to qualify against the competitiors in several fields,such as: cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
 
-1.The metrics to test should be the cost/color of the car,length and design of the car,safety ratings to the consumer,highway fuel efficiency and horse power for future performance to assume maintaince cost and more metrics such as design,MPG compared to its competitiors.
+- The metrics to test should be the cost/color of the car,length and design of the car,safety ratings to the consumer,highway fuel efficiency and horse power for future performance to assume maintaince cost and more metrics such as design,MPG compared to its competitiors.
 
-2. Our null hypothsis is (H0):The MechaCar's True mean of performance is equal to zero and the alternative hypothesis is (Ha): The True mean is not equal to zero.
+- Our null hypothsis is (H0):The MechaCar's True mean of performance is equal to zero and the alternative hypothesis is (Ha): The True mean is not equal to zero.
 If our null hypothsis is rejected, than we can say that MechaCar is perfoming well in comparision with the competitiors.
 
-3. A multiple linear regerssion test would be performed to compare how MechaCar performs compare to its paired compitators.
+- A multiple linear regerssion test would be performed to compare how MechaCar performs compare to its paired compitators.
 
-4. To run the statistical test we will need a dataset containing the variables susch as:price, designs, highway fuel efficiency, horse power, AWD, safety rating and MPG.
+- To run the statistical test we will need a dataset containing the variables susch as:price, designs, highway fuel efficiency, horse power, AWD, safety rating and MPG.
 
 
